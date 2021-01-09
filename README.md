@@ -16,8 +16,9 @@
 
 All your favorit games in one place!    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" padding src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="150" width="100" alt="Games4U"  /></a>
 
-<br/>
-<br/>
+
+
+
 ### Not a day to die
 
 First person shooter, Full trialer below!
