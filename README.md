@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bar</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barovda&label=Profile%20views&color=0e75b6&style=flat" alt="barovda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barovda" alt="barovda" /></a> </p>
-
 - 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
 
 <h3 align="left">Connect with me:</h3>
