@@ -50,6 +50,7 @@ Full trialer below!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer)
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
 
 
