@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=60)
 
-<h1 align="center">Hi 👋, I'm Bar</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## 📖 About me
