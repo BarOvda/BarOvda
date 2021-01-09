@@ -1,36 +1,21 @@
-### Languages
+<h1 align="center">Hi 👋, I'm Bar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-![C](https://img.shields.io/badge/-C-fff?&logo=c)
-![SQL](https://img.shields.io/badge/-SQL-fff?&logo=SQL&logoColor=336791)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barovda&label=Profile%20views&color=0e75b6&style=flat" alt="barovda" /> </p>
 
-### Technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barovda" alt="barovda" /></a> </p>
 
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Angular](https://img.shields.io/badge/-Angular-fff?&logo=Angular)
-![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
+- 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
 
-### Web/Full Stack projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
+</p>
 
-[![My Website](https://img.shields.io/badge/-🧬%20My%20Website-fff?)](https://github.com/adamalston/v2)
-[![COVID-19 Dashboard](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-fff?)](https://github.com/adamalston/COVID-19-Dashboard)
-[![Summarizer](https://img.shields.io/badge/-📝%20Summarizer-fff?)](https://github.com/adamalston/Summarizer)
-[![Overwatch](https://img.shields.io/badge/-🔬%20Overwatch-fff?)](https://github.com/adamalston/overwatch)
-[![KubeSat](https://img.shields.io/badge/-🛰%20KubeSat-fff?)](https://github.com/adamalston/kubesat)
-[![Voice Poker](https://img.shields.io/badge/-🔊%20Voice%20Poker-fff?)](https://github.com/adamalston/Poker)
-[![PokémonGo Map](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-fff?)](https://github.com/adamalston/PokemonGo-Map)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-### Cybersecurity projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barovda&show_icons=true&locale=en&layout=compact" alt="barovda" /></p>
 
-[![Spectre & Meltdown](https://img.shields.io/badge/-🛡%20Spectre%20&%20Meltdown-fff?)](https://github.com/adamalston/Meltdown-Spectre)
-[![Heartbleed](https://img.shields.io/badge/-🩸%20Heartbleed-fff?)](https://github.com/adamalston/Heartbleed)
-[![SYN Flood](https://img.shields.io/badge/-🌊%20SYN%20Flood-fff?)](https://github.com/adamalston/SYN-Flood)
-[![Packet Sniffing & Spoofing](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20&%20Spoofing-fff?)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
-[![SQL Injection](https://img.shields.io/badge/-💉%20SQL%20Injection-fff?)](https://github.com/adamalston/SQL-Injection)
-[![Network Tools](https://img.shields.io/badge/-🌐%20Network%20Tools-fff?)](https://github.com/adamalston/Network-Tools)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=barovda&show_icons=true&locale=en" alt="barovda" /></p>
+
