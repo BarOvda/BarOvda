@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=260&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=35&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=260&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=35&fontAlignY=35)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" width="60" height="60"/></a>
 
