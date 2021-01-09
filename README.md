@@ -14,7 +14,7 @@
 
 <p align="left">
  
-<a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="150" width="80" alt="Not-A-Day-To-Die"  /></a>
+<a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
 </p>
 
 
