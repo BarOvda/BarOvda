@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
-- 👨‍💻 All of my projects are available at [https://github.com/BarOvda](https://github.com/BarOvda)
+- 👨‍💻 All of my projects are available at [https://github.com/BarOvda]<a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
