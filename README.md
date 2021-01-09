@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bar</h1>
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
-- 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
+- 🔭 I’m currently working on **EasyTest - summaries share, rank and an e-exams system**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 
@@ -13,7 +13,7 @@
 Deadly virus has spread around the world. Frank, a formerly military soldier will risk everything to save his friend.
 Full trialer below!
 
-<p align="left">
+<p align="center">
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
 </p>
 
