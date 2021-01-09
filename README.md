@@ -10,7 +10,7 @@
 * 🔭 I’m currently working on **EasyTest - summaries share, rank and an e-exams system**
 * 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
-## 🤓 Check out my latest videos
+## 🤓 Check out my latest project
 ### Games4U
 All your favorit games in one place!<p align="center"><a href="https://github.com/BarOvda/Games4You" target="blank"><img align="center" src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="120" width="100" alt="Games4U"  /></a>
 </p>
