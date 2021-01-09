@@ -11,7 +11,7 @@
 </p>
 
 
-[![Not-A-Day-To-Die](https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true "Not-A-Day-To-Die")](https://www.youtube.com/watch?v=LZugvN047Bc "Not-A-Day-To-Die")
+[![Not-A-Day-To-Die](https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true "Not-A-Day-To-Die")](https://www.youtube.com/watch?v=LZugvN047Bc "Not-A-Day-To-Die" height="30" width="40")
 
 
 <h3 align="left">My top skills:</h3>
