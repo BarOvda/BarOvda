@@ -10,9 +10,10 @@
 
 
 <h3 align="center">Want to see somting cool?</h3>
+
 Deadly virus has spread around the world. Frank, a formerly military soldier will risk everything to save his friend.
 Full trialer below!
-
+<br/>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
 </p>
