@@ -25,6 +25,9 @@ All your favorit games in one place!    <a href="https://github.com/BarOvda/Game
 First person shooter, Full trialer below!
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="right" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="100" width="100" alt="Not-A-Day-To-Die"  /></a>
 
+
+<br><br/>
+<br><br/>
 <h3 align="left">My top skills:</h3>
  
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
