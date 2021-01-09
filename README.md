@@ -10,17 +10,18 @@
 * 🔭 I’m currently working on **EasyTest - summaries share, rank and an e-exams system**
 * 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
+### Games4U
 ## 🤓 Check out my latest project
 ### Games4U
-<p align="left">
-All your favorit games in one place!    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" padding src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="150" width="100" alt="Games4U"  /></a>
-</p>
 
+All your favorit games in one place!    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" padding src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="150" width="100" alt="Games4U"  /></a>
+
+<br/>
+<br/>
 ### Not a day to die
-<p align="left">
+
 First person shooter, Full trialer below!
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="right" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="100" width="100" alt="Not-A-Day-To-Die"  /></a>
-</p>
 
 <h3 align="left">My top skills:</h3>
  
