@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=60)
 
 <h1 align="center">Hi 👋, I'm Bar</h1>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
@@ -50,6 +50,6 @@ Full trialer below!
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=wave&color=gradient&height=200)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=footer)
 
 
