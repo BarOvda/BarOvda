@@ -2,13 +2,12 @@
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
-- 👨‍💻 All of my projects are available at [https://github.com/BarOvda]<a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="center">Want to see somting cool?</h3>
 Deadly virus has spread around the world. Frank, a formerly military soldier will risk everything to save his friend.
