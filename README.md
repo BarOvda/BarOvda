@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
 </p>
-[![Want to see something cool?](https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg "Want to see something cool?")](https://www.youtube.com/watch?v=LZugvN047Bc "Want to see something cool?")
+[![Want to see something cool?](https://github.com/BarOvda/Not-A-Day-To-Die/logo.jpg "Want to see something cool?")](https://www.youtube.com/watch?v=LZugvN047Bc "Want to see something cool?")
 
 
 
