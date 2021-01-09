@@ -10,11 +10,14 @@
 * 🔭 I’m currently working on **EasyTest - summaries share, rank and an e-exams system**
 * 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
+## 🤓 Check out my latest videos
+### Games4U
+All your favorit games in one place!
+<p align="center">
 
 
-
-<h3 align="center">Want to see somting cool?</h3>
-
+<a href="https://github.com/BarOvda/Games4You" target="blank"><img align="center" src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
+</p>
 Deadly virus has spread around the world. Frank, a formerly military soldier will risk everything to save his friend.
 Full trialer below!
 <br/>
