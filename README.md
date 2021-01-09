@@ -10,11 +10,11 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">somting cool:</h3>
+<h3 align="left">Want to see somting cool?</h3>
 
 <p align="left">
  
-<a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="30" width="40" alt="Not-A-Day-To-Die"  /></a>
+<a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="150" width="80" alt="Not-A-Day-To-Die"  /></a>
 </p>
 
 
