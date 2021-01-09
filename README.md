@@ -12,7 +12,7 @@
 
 ## Check out my latest projects 
 ### Games4U
-All your favorit games in one place!    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="100" height="100" /></a>
+All your favorit games in one place! ➡️    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="100" height="100" /></a>
 
 <br><br/>
 <br><br/>
@@ -20,7 +20,7 @@ All your favorit games in one place!    <a href="https://github.com/BarOvda/Game
 
 ### Not a day to die
 
-First person shooter, For the full trialer:
+First person shooter, for the full trialer! ➡️
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="right" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo2.jpg?raw=true" alt="Not-A-Day-To-Die" width="100" height="100"/></a>
 
 
