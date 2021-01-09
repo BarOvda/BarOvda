@@ -12,15 +12,13 @@
 
 ## 🤓 Check out my latest videos
 ### Games4U
-All your favorit games in one place!
-<p align="center">
-
-
-<a href="https://github.com/BarOvda/Games4You" target="blank"><img align="center" src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
+All your favorit games in one place!<p align="center"><a href="https://github.com/BarOvda/Games4You" target="blank"><img align="center" src="https://github.com/BarOvda/Games4You/blob/master/screenshots_samples/sample2.gif?raw=true" height="120" width="100" alt="Games4U"  /></a>
 </p>
+
 Deadly virus has spread around the world. Frank, a formerly military soldier will risk everything to save his friend.
 Full trialer below!
-<br/>
+
+
 <p align="center">
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="center" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo.jpg?raw=true" height="120" width="100" alt="Not-A-Day-To-Die"  /></a>
 </p>
