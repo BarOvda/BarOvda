@@ -2,6 +2,8 @@
 <h3 align="center">A passionate full-stack developer from Israel</h3>
 
 - 🔭 I’m currently working on **EasyTest - share, rank and e-exams system**
+- 👨‍💻 All of my projects are available at [https://github.com/BarOvda](https://github.com/BarOvda)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
