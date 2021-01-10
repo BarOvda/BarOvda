@@ -1,16 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=35&fontAlignY=32)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
-
 ## 📖 About me
 * 💻 I'm a full-stack developer
 * 🌐 I make apps for Web browsers
 * 📱 I make apps for Android
 * 🎓 I'm a Software engineer (graduating in October 2021)
-* 🔭 I’m currently working on **EasyTest - summaries share, rank and an e-exams system**
-* 👨‍💻 All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
+* 🔭 I’m currently working on **EasyTest - Share, rank, find and use your summaries with an e-exams system**
+* :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
-## Check out my latest projects 
+## 👨‍💻 Check out my latest projects 
 ### Games4U
 All your favorit games in one place! ➡️    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="80" height="80" /></a>
 
