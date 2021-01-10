@@ -9,7 +9,7 @@
 * 🔭 I’m currently working on **EasyTest - Share, rank, find and use your summaries with an e-exams system**
 * :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
-## 👨‍💻 Check out my latest projects 
+## 📘 Check out my latest projects 
 ### Games4U
 All your favorit games in one place! ➡️    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="80" height="80" /></a>
 
@@ -21,12 +21,8 @@ All your favorit games in one place! ➡️    <a href="https://github.com/BarOv
 
 First person shooter, for the full trialer! ➡️
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="right" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo2.jpg?raw=true" alt="Not-A-Day-To-Die" width="80" height="80"/></a>
-
-
-<br><br/>
-
+### 👨‍💻 Languages and Tools
 <h3 align="left">My top skills</h3>
- 
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
