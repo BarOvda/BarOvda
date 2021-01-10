@@ -11,13 +11,13 @@
 
 ## 📘 Check out my latest projects 
 ### Games4U
-All your favorit games in one place! ➡️    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="80" height="80" /></a>
+All your favorite games in one place! ➡️    <a href="https://github.com/BarOvda/Games4You" target="blank"><img align="right" src="https://github.com/BarOvda/Games4You/blob/master/games4u_icon.PNG" alt="Games4U" width="80" height="80" /></a>
 
 <br><br/>
 <br><br/>
 
 ### RecipeBook
-Share recipes with your frindes! ➡️    <a href="https://github.com/BarOvda/RecipeBook" target="blank"><img align="right" src="https://www.freelogodesign.org/file/app/client/thumb/d6819f5d-bb71-48bb-95a8-797f8c4550f3_200x200.png?1589447693566" alt="RecipeBook" width="80" height="80" /></a>
+Share recipes with your friends! ➡️    <a href="https://github.com/BarOvda/RecipeBook" target="blank"><img align="right" src="https://www.freelogodesign.org/file/app/client/thumb/d6819f5d-bb71-48bb-95a8-797f8c4550f3_200x200.png?1589447693566" alt="RecipeBook" width="80" height="80" /></a>
 
 <br><br/>
 <br><br/>
@@ -25,7 +25,7 @@ Share recipes with your frindes! ➡️    <a href="https://github.com/BarOvda/R
 
 ### Not a day to die
 
-First person shooter, for the full trialer! ➡️
+First person shooter, for the full trailer! ➡️
 <a href="https://www.youtube.com/watch?v=LZugvN047Bc" target="blank"><img align="right" src="https://github.com/BarOvda/Not-A-Day-To-Die/blob/master/logo2.jpg?raw=true" alt="Not-A-Day-To-Die" width="80" height="80"/></a>
 
 <br><br/>
