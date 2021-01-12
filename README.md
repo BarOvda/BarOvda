@@ -5,7 +5,7 @@
 * 💻 I'm a full-stack developer
 * 🌐 I make apps for Web browsers
 * 📱 I make apps for Android
-* 🎓 I'm a Software engineer (graduating in October 2021)
+* 🎓 I'm a Software engineer student (graduating in October 2021)
 * 🔭 I’m currently working on **EasyTest - Share, rank, find and use your summaries with an e-exams system**
 * :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
