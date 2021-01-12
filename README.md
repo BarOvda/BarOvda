@@ -49,7 +49,7 @@ First person shooter, for the full trailer! ➡️
 </p>
 
 ## Connect with me
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bar-ovda-b34117180" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="https://www.linkedin.com/in/bar-ovda-b34117180" height="30" width="40" /></a>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
