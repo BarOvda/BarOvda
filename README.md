@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=225&section=header&text=Hi%20👋,%20I'm%20Bar&fontSize=35&fontAlignY=32)
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
+<a href="#"><img height="auto" src="https://i.imgur.com/iXuL1HG.png" width="30" height="30"/></a>
 ## 📖 About me
 * 💻 I'm a full-stack developer
 * 🌐 I make apps for Web browsers
