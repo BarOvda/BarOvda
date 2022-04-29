@@ -5,7 +5,7 @@
 * 💻 I'm a full-stack developer
 * 🌐 I make apps for Web browsers
 * 📱 I make apps for Android
-* 🎓 I'm a Software engineer student (graduating in October 2021)
+* 🎓 I'm a Software engineer
 * 🔭 I’m currently working on **EasyTest - Share, rank, find and use your summaries with an e-exams system**
 * :octocat: All of my projects are available at <a href="https://github.com/BarOvda?tab=repositories" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="https://github.com/BarOvda" height="30" width="40" /></a>
 
@@ -17,7 +17,7 @@ All your favorite games in one place! ➡️    <a href="https://github.com/BarO
 <br><br/>
 
 ### RecipeBook
-Share recipes with your friends! ➡️    <a href="https://github.com/BarOvda/RecipeBook" target="blank"><img align="right" src="https://www.freelogodesign.org/file/app/client/thumb/d6819f5d-bb71-48bb-95a8-797f8c4550f3_200x200.png?1589447693566" alt="RecipeBook" width="80" height="80" /></a>
+Share recipes with your friends! ➡️    <a href="https://github.com/BarOvda/RecipeBook" target="blank"></a>
 
 <br><br/>
 <br><br/>
